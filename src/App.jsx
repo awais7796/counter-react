@@ -12,6 +12,12 @@ function App() {
 const addValue=()=>{
   if(counter>=0&&counter<25){
   counter+=1;
+  counter+=1;
+  counter+=1;
+  counter+=1;
+  counter+=1;
+  counter+=1;
+  counter+=1;
   setCounter(counter)
 }
 
